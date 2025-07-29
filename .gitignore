@@ -1,0 +1,90 @@
+# Flutter/Dart specific
+habitverse/.dart_tool/
+habitverse/.packages
+habitverse/.pub-cache/
+habitverse/.pub/
+habitverse/build/
+habitverse/.flutter-plugins
+habitverse/.flutter-plugins-dependencies
+habitverse/.metadata
+
+# Flutter Web specific
+habitverse/web/flutter_service_worker.js
+habitverse/web/version.json
+
+# Node.js specific
+habitverse-backend/node_modules/
+habitverse-backend/npm-debug.log*
+habitverse-backend/yarn-debug.log*
+habitverse-backend/yarn-error.log*
+
+# Database
+habitverse-backend/habitverse.db
+habitverse-backend/habitverse.db-journal
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# nyc test coverage
+.nyc_output
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# Build outputs
+dist/
+build/
+out/
+
+# Temporary files
+tmp/
+temp/
