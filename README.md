@@ -136,7 +136,7 @@ After seeding the database, you can use these test accounts:
 - `POST /api/auth/login` - User login
 
 ### Habits
-- `GET /api/habits` - Get user habits
+- `GET /api/habits` - Get user habits 
 - `POST /api/habits` - Create new habit
 - `PUT /api/habits/:id` - Update habit
 - `DELETE /api/habits/:id` - Delete habit
