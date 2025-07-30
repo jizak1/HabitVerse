@@ -48,7 +48,7 @@ Node.js • Hapi.js • SQLite • JWT • bcrypt
 
 **Features**
 ```
-Cross-platform • Real-time sync • Push notifications • Offline support
+Cross-platform • Real-time sync • Push notifications • Offline support 
 ```
 
 </div>
